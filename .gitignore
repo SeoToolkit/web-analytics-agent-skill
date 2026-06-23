@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# Authentication tokens
+token.json
+google_analytics_token.json
+client_secret.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
